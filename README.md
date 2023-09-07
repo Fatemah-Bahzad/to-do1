@@ -1,5 +1,5 @@
-#to-do
-## In progress
+
+## to-do website: In progress
 a simple to do list using React.
 
 Final project goals: A full itinerary that can be using for
